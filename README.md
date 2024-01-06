@@ -1,6 +1,6 @@
 # Task List
 
-## The project consists of a complete Full Stack application with the goal of assisting in the management of activities and tasks.
+## O projeto consiste em uma aplicação Full Stack completa com o objetivo de auxiliar no gerenciamento de atividades e tarefas.
 
 <br>
  <img align="center" src="backend/src/assets/img/1.jpeg" />
