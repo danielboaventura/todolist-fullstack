@@ -35,7 +35,7 @@
 ```bash
 #Command to clone the repository
 
-$ git clone https://github.com/danielginez/todolist-fullstack
+$ git clone https://github.com/danielboaventura/todolist-fullstack
 ```
 
 ### Após clonar o repositório, é necessário criar um banco de dados MySQL junto com as colunas necessárias.
